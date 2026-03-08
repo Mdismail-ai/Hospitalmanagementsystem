@@ -1,10 +1,10 @@
-Hospital Management System
+# Hospital Management System
 
 Hospital Management System is a Spring Boot application that allows hospitals to manage patients, doctors, appointments, and insurance efficiently.
 
 
 
-Features
+## Features
 
 1.Manage patients, including personal details, blood group, and insurance information
 
@@ -16,13 +16,14 @@ Features
 
 5.Automatic timestamping of records with createdAt fields
 
-Enforces data integrity using unique constraints and indexes
+6.Enforces data integrity using unique constraints and indexes
 
-RESTful APIs for integration with frontend or other services
+7.RESTful APIs for integration with frontend or other services
 
 
 
-Technologies Used
+
+## Technologies Used
 
 1.Backend: Java 21, Spring Boot 4.x
 
@@ -36,7 +37,6 @@ Technologies Used
 
 6.Testing: Spring Boot JPA and WebMVC test dependencies
 
-
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit Pull Requests for improvements, bug fixes, or new features.
