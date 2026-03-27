@@ -18,7 +18,7 @@ Hospital Management System is a Spring Boot application that allows hospitals to
 
 6.Enforces data integrity using unique constraints and indexes
 
-7.RESTful APIs for integration with frontend or other services
+
 
 
 
